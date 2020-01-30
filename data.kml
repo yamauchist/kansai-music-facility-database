@@ -3,9 +3,9 @@
   <Document>
     <name>関西アマオケ練習場マップ</name>
     <description/>
-    <Style id="icon-1899-0288D1-nodesc-normal">
+    <Style id="icon-1899-1A237E-nodesc-normal">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>ff7e231a</color>
         <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -19,9 +19,9 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="icon-1899-0288D1-nodesc-highlight">
+    <Style id="icon-1899-1A237E-nodesc-highlight">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>ff7e231a</color>
         <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -35,14 +35,14 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="icon-1899-0288D1-nodesc">
+    <StyleMap id="icon-1899-1A237E-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1899-FF5252-labelson">
@@ -214,7 +214,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>【大阪】ＹＯＳＨＵホール</name>
+        <name>【大阪】YOSHUホール</name>
         <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -304,7 +304,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>【京都】音のアトリヱ</name>
+        <name>【京都】アトリヱ・松田</name>
         <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -327,6 +327,151 @@
         <Point>
           <coordinates>
             135.43402,34.521289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【大阪】島村楽器 梅田ロフト店</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4999315,34.7079777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【京都】京都芸術センター</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.758345,35.005436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【兵庫】ピフレホール</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.1456711,34.6568508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【大阪】難波市民学習センター</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4954773,34.6667446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【兵庫】フルート・アンシャンテ</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.2681585,34.6891397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【兵庫】スワンホール</name>
+        <description>2020年3月まで改修工事中</description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <Point>
+          <coordinates>
+            135.3968797,34.7857847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【兵庫】 100BANスタジオ</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.194503,34.688853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【大阪】 西南小会館　かがり火の家</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.457194,34.813715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【大阪】STUDIO NECO</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4882218,34.6966233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【大阪】7th Note</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.491521,34.705578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【大阪】ムジークシューレ大阪</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5127105,34.6831773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【大阪】ベル 音楽サロン</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5074405,34.6293529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【京都】旭堂楽器店</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.7675127,35.0154332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【京都】Lesson Studio Poco四条</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.7579304,35.006023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【滋賀】米原市民交流プラザ・ルッチプラザ</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            136.367639,35.364501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【奈良】秋篠音楽堂</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.7852128,34.6951079,0
           </coordinates>
         </Point>
       </Placemark>
@@ -371,47 +516,11 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>阿倍野区民センター</name>
+        <name>市立葺合文化センター大ホール</name>
         <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            135.5105578,34.6410063,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>大淀コミュニティセンター</name>
-        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            135.508517,34.7158298,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>大阪市立 東成区民センター</name>
-        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            135.541415,34.668088,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>大阪市立都島区民センター</name>
-        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            135.5282001,34.700905,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>此花区民ホール</name>
-        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            135.457111,34.685912,0
+            135.2016658,34.7043502,0
           </coordinates>
         </Point>
       </Placemark>
@@ -425,6 +534,69 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>ピッコロシアター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4217982,34.7503685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ハーティホール</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4192278,34.7463295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>フィッシュダンス音楽練習場</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.189616,34.6845407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六甲道勤労市民センター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.2390755,34.7147953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>港区民センター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.458853,34.667742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西淀川区民会館</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.442715,34.702985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪市立都島区民センター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5282001,34.700905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>西淀川区民ホール</name>
         <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
         <Point>
@@ -434,11 +606,364 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>ピッコロシアター</name>
+        <name>此花区民ホール</name>
         <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            135.4217982,34.7503685,0
+            135.457111,34.685912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪市立 東成区民センター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.541415,34.668088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大淀コミュニティセンター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.508517,34.7158298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿倍野区民センター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5105578,34.6410063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アゼリア大正ホール・スタジオ</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.472289,34.647268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大正会館</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4721808,34.6509038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東住吉区民ホール</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5266119,34.6221184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>住吉区民センター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5008154,34.6041363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>すみのえ舞昆ホール（住之江区民ホール）</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4826294,34.6096056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪市 北区民センター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5104582,34.7053795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福島区民センター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.473107,34.691534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アルカスホール</name>
+        <description>小編成ならオケもできる</description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            135.6229776,34.7639596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神戸アートビレッジセンター</name>
+        <description>防音の貸しスタジオあり</description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            135.1735375,34.6762473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>きららホール</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.3882861,34.8027238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アイホール</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4204165,34.7806139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木津川市加茂文化センター（あじさいホール）</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.8660293,34.7513431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サンシビック 尼崎</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4130726,34.7188769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尼崎市 女性センター ・トレピエ</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.3929654,34.7490092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尼崎市立小田南生涯学習プラザ</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.430501,34.727727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尼崎市立小田北生涯学習プラザ</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4338248,34.7330103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尼崎市立立花北生涯学習プラザ</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4113275,34.7559627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みのおサンプラザ</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4698126,34.8343942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>らいとぴあ２１(箕面市立萱野中央人権文化センター)</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4836564,34.8308333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪市立西区民センター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.486503,34.67477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪市立淀川区民センター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4829018,34.7253876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千里山コミュニティセンター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5060504,34.7790437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都市呉竹文化センター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.764646,34.938349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都市東部文化会館</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.8140442,34.9764216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都市西文化会館ウエスティ</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.694183,34.98494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都市北文化会館</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.7586711,35.0457424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>京都市右京ふれあい文化会館</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.717261,35.016757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふたば学舎</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.1456111,34.6517317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西宮市立中央公民館</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.356985,34.743866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪フィルハーモニー会館</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4954419,34.6346767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西成区民センター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4948247,34.6344518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>摂津市民文化ホール（くすのきホール）</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5565242,34.7856763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>門真市立 文化会館</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.586974,34.740226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コミュニティプラザ平野（平野区民センター）</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.569867,34.608862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平野区民ホール</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.558232,34.620402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>城東区民センター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5444328,34.703266,0
           </coordinates>
         </Point>
       </Placemark>
@@ -447,7 +972,7 @@
       <name>コンサートホール</name>
       <Placemark>
         <name>ザ・シンフォニーホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.486011,34.701486,0
@@ -456,7 +981,7 @@
       </Placemark>
       <Placemark>
         <name>いずみホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.534243,34.690877,0
@@ -465,7 +990,7 @@
       </Placemark>
       <Placemark>
         <name>神戸国際会館こくさいホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.1958143,34.6921373,0
@@ -474,7 +999,7 @@
       </Placemark>
       <Placemark>
         <name>兵庫県立芸術文化センター</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.355807,34.743585,0
@@ -483,7 +1008,7 @@
       </Placemark>
       <Placemark>
         <name>京都コンサートホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.7665733,35.0499603,0
@@ -492,7 +1017,7 @@
       </Placemark>
       <Placemark>
         <name>東大阪市文化創造館</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.5895177,34.6658892,0
@@ -501,7 +1026,7 @@
       </Placemark>
       <Placemark>
         <name>あましんアルカイックホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.420402,34.721113,0
@@ -510,7 +1035,7 @@
       </Placemark>
       <Placemark>
         <name>東リ いたみホール(伊丹市立文化会館)</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.414054,34.782165,0
@@ -519,7 +1044,7 @@
       </Placemark>
       <Placemark>
         <name>豊中市立文化芸術センター</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.4693681,34.7700603,0
@@ -528,7 +1053,7 @@
       </Placemark>
       <Placemark>
         <name>豊中市立ローズ文化ホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.4742045,34.7541708,0
@@ -537,7 +1062,7 @@
       </Placemark>
       <Placemark>
         <name>伊丹アイフォニックホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.4157502,34.7825023,0
@@ -545,8 +1070,26 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>ベガホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.3522512,34.8110059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>キセラホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4200507,34.8361364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>門真市民文化会館ルミエールホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.593022,34.737193,0
@@ -555,7 +1098,7 @@
       </Placemark>
       <Placemark>
         <name>八尾市文化会館プリズムホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.606772,34.6289581,0
@@ -564,7 +1107,7 @@
       </Placemark>
       <Placemark>
         <name>大阪狭山市文化会館SAYAKAホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.5559338,34.5018336,0
@@ -573,7 +1116,7 @@
       </Placemark>
       <Placemark>
         <name>阪南市立文化センター</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.2406072,34.3597113,0
@@ -582,7 +1125,7 @@
       </Placemark>
       <Placemark>
         <name>岸和田市立浪切ホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.3692892,34.4660539,0
@@ -591,7 +1134,7 @@
       </Placemark>
       <Placemark>
         <name>神戸文化ホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.172919,34.683856,0
@@ -600,7 +1143,7 @@
       </Placemark>
       <Placemark>
         <name>京都府長岡京記念文化会館</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.688303,34.927076,0
@@ -609,7 +1152,7 @@
       </Placemark>
       <Placemark>
         <name>滋賀県立芸術劇場 びわ湖ホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.8770895,35.0070819,0
@@ -618,7 +1161,7 @@
       </Placemark>
       <Placemark>
         <name>高槻現代劇場</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.6206528,34.8455442,0
@@ -627,7 +1170,7 @@
       </Placemark>
       <Placemark>
         <name>柏原市民文化会館 リビエールホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.628378,34.579866,0
@@ -636,7 +1179,7 @@
       </Placemark>
       <Placemark>
         <name>なら100年会館</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.8164798,34.6802938,0
@@ -645,7 +1188,7 @@
       </Placemark>
       <Placemark>
         <name>西宮市民会館(アミティホール)</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.341625,34.737105,0
@@ -654,7 +1197,7 @@
       </Placemark>
       <Placemark>
         <name>灘区民ホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.2280958,34.7137886,0
@@ -663,7 +1206,7 @@
       </Placemark>
       <Placemark>
         <name>芦屋市立 ルナホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.3026709,34.7326605,0
@@ -672,7 +1215,7 @@
       </Placemark>
       <Placemark>
         <name>神戸市立東灘区民センター</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.2631618,34.7191884,0
@@ -681,7 +1224,7 @@
       </Placemark>
       <Placemark>
         <name>ひこね市文化プラザ</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             136.233095,35.255967,0
@@ -690,7 +1233,7 @@
       </Placemark>
       <Placemark>
         <name>すばるホール</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.586101,34.495225,0
@@ -699,7 +1242,7 @@
       </Placemark>
       <Placemark>
         <name>ラブリーホール（河内長野市立文化会館）</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.566473,34.452977,0
@@ -708,10 +1251,91 @@
       </Placemark>
       <Placemark>
         <name>LICはびきの</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
           <coordinates>
             135.5977378,34.5537684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神戸芸術センター</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.1982515,34.7044125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三田市総合文化センター 郷の音ホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.221431,34.890982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神戸市立北区民センター すずらんホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.145034,34.726578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>明石市民会館</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            134.9986488,34.643857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>箕面市立メイプルホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4716171,34.831191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吹田市文化会館（メイシアター）</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.515296,34.759747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川西市みつなかホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4188125,34.825864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>池田市民文化会館</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4411422,34.8093901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>龍谷大学 響都ホール 校友会館</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.7602962,34.9835601,0
           </coordinates>
         </Point>
       </Placemark>
