@@ -475,6 +475,34 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>【大阪】プチエル</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5129668,34.6899448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【大阪】ヒビキミュージックサロン リーヴズ</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5087255,34.6944839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【兵庫】スターシャワーの森音楽堂・スピカホール</name>
+        <description>スタインウェイあり</description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <Point>
+          <coordinates>
+            134.3412824,35.0197828,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>オーケストラ用</name>
@@ -967,6 +995,51 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>市立こども文化センター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4633217,34.6818326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>クレオ大阪中央・市立男女共同参画センター 中央館</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.515556,34.659825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>クレオ大阪南・市立男女共同参画センター 南部館</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.54841,34.610656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>クレオ大阪東 市立男女共同参画センター 東部館</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5364169,34.6913704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西宮市勤労会館</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.345064,34.7362439,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>コンサートホール</name>
@@ -1336,6 +1409,159 @@
         <Point>
           <coordinates>
             135.7602962,34.9835601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>守山市民ホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.9788202,35.0634612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野洲文化ホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            136.02092,35.066895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DMG MORI やまと郡山城ホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.7820747,34.6518189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三郷町文化センター</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.6964647,34.6012705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊吹薬草の里文化センター</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            136.38317,35.382004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>やまなみホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.992323,34.772378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アスピアやましろ</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.812186,34.77586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡市文化センター</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.70769,34.874652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>文化パルク城陽</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.773536,34.849245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宇治市文化センター</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.8048334,34.8795895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>志摩市 志摩文化会館</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            136.814348,34.259762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>しづかホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            134.9040951,34.4281463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神戸新聞 松方ホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.1819286,34.6784883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>香芝市ふたかみ文化センター</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.699345,34.542623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>橿原市立かしはら万葉ホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.7961237,34.5001068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>弥生の風ホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.456627,34.4579776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大東市立総合文化センター サーティホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.623798,34.703616,0
           </coordinates>
         </Point>
       </Placemark>
