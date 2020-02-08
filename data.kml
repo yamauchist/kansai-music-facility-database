@@ -1565,6 +1565,15 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>コスモホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            134.9195852,34.7491812,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
