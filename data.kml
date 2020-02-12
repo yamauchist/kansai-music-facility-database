@@ -503,6 +503,33 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>【大阪】大阪城音楽堂リハーサル室</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.530568,34.682704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【兵庫】塩瀬公民館</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.307579,34.826319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【大阪】江坂シャロームホール</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4964887,34.7566924,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>オーケストラ用</name>
@@ -634,6 +661,15 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>東住吉区民ホール</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5266119,34.6221184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>此花区民ホール</name>
         <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
         <Point>
@@ -684,15 +720,6 @@
         <Point>
           <coordinates>
             135.4721808,34.6509038,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>東住吉区民ホール</name>
-        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            135.5266119,34.6221184,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1037,6 +1064,33 @@
         <Point>
           <coordinates>
             135.345064,34.7362439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊丹市 生涯学習センター・ラスタホール</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.408636,34.765969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪府立男女共同参画・青少年センター（ドーンセンター）</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5206395,34.6898395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大阪市中央区民センター</name>
+        <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5098402,34.6811529,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1503,15 +1557,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>志摩市 志摩文化会館</name>
-        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            136.814348,34.259762,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>しづかホール</name>
         <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
         <Point>
@@ -1571,6 +1616,51 @@
         <Point>
           <coordinates>
             134.9195852,34.7491812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アラベスクホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            134.8385414,34.7967574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊能町立ユーベルホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4420281,34.9015866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ポートピアホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.2142847,34.6642656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>なるお文化ホール</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.3665481,34.7148217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>フェニーチェ堺</name>
+        <styleUrl>#icon-1899-1A237E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.4796645,34.5723148,0
           </coordinates>
         </Point>
       </Placemark>
